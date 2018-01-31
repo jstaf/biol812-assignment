@@ -41,8 +41,8 @@ and pushing it to Github is a great place to start.
 
 5. Your boss has no idea what Git is or why you are using it. 
    Explain the pros / cons of using Git for your research project.
-   Explain the pros / cons of hosting your project in a private
-   repository on Github/Bitbucket/Gitlab/etc. 
+   Explain the pros / cons of hosting your project in a public 
+   (or private) repository on Github/Bitbucket/Gitlab/etc. 
 
 ## 3 - Submit a pull request
 
