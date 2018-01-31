@@ -2,7 +2,7 @@
 
 Do the following three things below to complete your assignment (due Feb 7).
 
-Some useful resources:
+**Some useful resources:**
 
 * [Creating a website with Github Pages](https://pages.github.com/)
 
