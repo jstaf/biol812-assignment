@@ -1,8 +1,10 @@
 # Assignment for BIOL 812 
 
-Do the following three things below to complete your assignment (due Feb 7).
+Complete the three tasks below to finish your assignment (due Feb 7).
 
 **Some useful resources:**
+
+* [Git lesson materials](http://swcarpentry.github.io/git-novice/)
 
 * [Creating a website with Github Pages](https://pages.github.com/)
 
