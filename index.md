@@ -47,7 +47,7 @@ and pushing it to Github is a great place to start.
 ## 3 - Submit a pull request
 
 Add a link to this webpage by submitting a pull request to this
-repository (https://github.com/jstaf/biol812-assignment).
+repository ([https://github.com/jstaf/biol812-assignment](https://github.com/jstaf/biol812-assignment)).
 
 The links should have your name and link to your assignment site.
 Example: 
