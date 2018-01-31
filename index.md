@@ -1,6 +1,16 @@
 # Assignment for BIOL 812 
 
-This is due Feb 7.
+Do the following three things below to complete your assignment (due Feb 7).
+
+Some useful resources:
+
+* [Creating a website with Github Pages](https://pages.github.com/)
+
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+* [This website itself!](https://github.com/jstaf/biol812-assignment)
+
+--------------------------------------------------------------------
 
 ## 1 - Create a Github Pages website
 
@@ -45,14 +55,6 @@ Example:
 ```
 
 [Jeff Stafford](https://jstaf.github.io/biol812-assignment)
-
---------------------------------------------------
-
-## Useful resources 
-
-* [Creating a website with Github Pages](https://pages.github.com/)
-
-* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 --------------------------------------------------
 
