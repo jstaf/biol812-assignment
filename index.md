@@ -65,3 +65,6 @@ Example:
 The links to your assignments should go below here:
 
 [Brigitte Simmatis](https://bsimmatis.github.io)
+
+
+[Yihan Wu](https://yihanwu.github.io/bio-812-assignment/)
