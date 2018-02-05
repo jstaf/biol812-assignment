@@ -64,9 +64,9 @@ Example:
 
 The links to your assignments should go below here:
 
-[Brigitte Simmatis](https://bsimmatis.github.io)
-[Brody Crosby](https://crosbybd.github.io)
-[Yihan Wu](https://yihanwu.github.io/bio-812-assignment/)
-[Lila Colston-Nepali](https://lilymaya.github.io/)
-[Katie Birchard](https://katieb314.github.io/Github-Assignment/)
-[Katherine Duchesneau](https://katherineduchesneau.github.io/Git_assignment/)
+* [Brigitte Simmatis](https://bsimmatis.github.io)
+* [Brody Crosby](https://crosbybd.github.io)
+* [Yihan Wu](https://yihanwu.github.io/bio-812-assignment/)
+* [Lila Colston-Nepali](https://lilymaya.github.io/)
+* [Katie Birchard](https://katieb314.github.io/Github-Assignment/)
+* [Katherine Duchesneau](https://katherineduchesneau.github.io/Git_assignment/)
