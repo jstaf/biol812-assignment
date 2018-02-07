@@ -70,6 +70,7 @@ The links to your assignments should go below here:
 * [Lila Colston-Nepali](https://lilymaya.github.io/)
 * [Katie Birchard](https://katieb314.github.io/Github-Assignment/)
 * [Katherine Duchesneau](https://katherineduchesneau.github.io/Git_assignment/)
+* [Danielle Greco] (https://danielle-greco.github.io/)
 * [Peiwen Li](https://peiwenli.github.io/PeiwenLi-BIOL812-assignment/)
 * [Hannah Driver](https://hannahdriver.github.io)
 * [Alex McClymont] (https://owlexmc.github.io/) 
