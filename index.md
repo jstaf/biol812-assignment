@@ -71,3 +71,5 @@ The links to your assignments should go below here:
 * [Katie Birchard](https://katieb314.github.io/Github-Assignment/)
 * [Katherine Duchesneau](https://katherineduchesneau.github.io/Git_assignment/)
 * [Alex McClymont] (https://owlexmc.github.io/) 
+* [Alyson Van Natto] (https://alysoncvn.github.io/)
+* [Leif Simmatis](https://8lers.github.io/)
