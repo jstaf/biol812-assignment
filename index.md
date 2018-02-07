@@ -76,3 +76,4 @@ The links to your assignments should go below here:
 * [Alex McClymont] (https://owlexmc.github.io/) 
 * [Alyson Van Natto] (https://alysoncvn.github.io/)
 * [Leif Simmatis](https://8lers.github.io/)
+* [Stephanie Haddad](https://stephaniehaddad.github.io/)
