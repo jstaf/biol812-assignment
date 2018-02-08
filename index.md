@@ -70,6 +70,7 @@ The links to your assignments should go below here:
 * [Lila Colston-Nepali](https://lilymaya.github.io/)
 * [Katie Birchard](https://katieb314.github.io/Github-Assignment/)
 * [Katherine Duchesneau](https://katherineduchesneau.github.io/Git_assignment/)
+* [Kurtis Westbury](https://kurtis1520.github.io/biol-812-assignment/)
 * [Danielle Greco] (https://danielle-greco.github.io/)
 * [Peiwen Li](https://peiwenli.github.io/PeiwenLi-BIOL812-assignment/)
 * [Hannah Driver](https://hannahdriver.github.io)
@@ -77,3 +78,5 @@ The links to your assignments should go below here:
 * [Alyson Van Natto] (https://alysoncvn.github.io/)
 * [Leif Simmatis](https://8lers.github.io/)
 * [Stephanie Haddad](https://stephaniehaddad.github.io/)
+* [Russell Turner] (https://RTurner23.github.io/)
+
