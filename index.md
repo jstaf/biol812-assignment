@@ -77,6 +77,6 @@ The links to your assignments should go below here:
 * [Alex McClymont](https://owlexmc.github.io/) 
 * [Alyson Van Natto](https://alysoncvn.github.io/)
 * [Leif Simmatis](https://8lers.github.io/)
+* [Jeffrey Cederwall](https://jcederwall.github.io/BIOL812/)
 * [Stephanie Haddad](https://stephaniehaddad.github.io/)
 * [Russell Turner] (https://RTurner23.github.io/)
-
