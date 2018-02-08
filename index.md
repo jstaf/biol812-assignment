@@ -77,6 +77,7 @@ The links to your assignments should go below here:
 * [Alex McClymont](https://owlexmc.github.io/) 
 * [Alyson Van Natto](https://alysoncvn.github.io/)
 * [Leif Simmatis](https://8lers.github.io/)
+* [Collin Juurakko](http://htmlpreview.github.io/?https://github.com/cjuurakko/biol812assignment/blob/master/Website.html)
 * [Ying Chen](https://rocioyc.github.io/)
 * [Stefanie Knebel](https://stef123456.github.io/)
 * [Jeffrey Cederwall](https://jcederwall.github.io/BIOL812/)
